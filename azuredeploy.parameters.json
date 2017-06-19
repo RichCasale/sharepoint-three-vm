@@ -38,14 +38,14 @@
         "storageAccountNamePrefix": {
             "value": "GEN-UNIQUE"
         },
-      "adVMSize": {
-        "value": "Standard_DS2_v2"
-      },
-      "sqlVMSize": {
-        "value": "Standard_DS3_v2"
-      },
-      "spVMSize": {
-        "value": "Standard_DS12_v2"
-      }
+         "adVMSize": {
+            "value": "Standard_DS1"
+        },
+        "sqlVMSize": {
+            "value": "Standard_DS3"
+        },
+        "spVMSize": {
+            "value": "Standard_DS3"
+        }
     }
 }
