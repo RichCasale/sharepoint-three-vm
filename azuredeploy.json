@@ -162,7 +162,7 @@
         "artifactsBaseUrl": "",
         "description": "URL to acquire other templates"
       },
-      "defaultValue": "https://github.com/RichCasale/sharepoint-three-vm/blob/master/"
+      "defaultValue": "https://github.com/RichCasale/sharepoint-three-vm/blob/master"
     },
     "spPublicIPNewOrExisting": {
       "type": "string",
