@@ -75,21 +75,21 @@
       "metadata": {
         "description": "The size of the AD VM Created"
       },
-      "defaultValue": "Standard_DS2"
+      "defaultValue": "Standard_DS2_v2"
     },
     "sqlVMSize": {
       "type": "string",
       "metadata": {
         "description": "The size of the SQL VM Created"
       },
-      "defaultValue": "Standard_DS2"
+      "defaultValue": "Standard_DS3_v2"
     },
     "spVMSize": {
       "type": "string",
       "metadata": {
         "description": "The size of the VM Created"
       },
-      "defaultValue": "Standard_DS3"
+      "defaultValue": "Standard_DS12_v2"
     },
     "domainName": {
       "type": "string",
